@@ -15,3 +15,4 @@ Dự án "Quản Lý Sổ Tay Nấu Ăn" là một hệ thống giúp người d
 - Cho phép người dùng tạo danh sách nguyên liệu và hướng dẫn chi tiết.
 ### 4. Lưu Trữ và Quản Lý Nguyên Liệu Nấu Ăn
 ### 5. Tạo Thực Đơn Thủ Công
+### 6. Tạo Lịch Trình Ẩm Thực
